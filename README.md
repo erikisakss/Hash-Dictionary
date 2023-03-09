@@ -1,6 +1,8 @@
 ### Hash dictionary
 Erik Isaksson
+
 ein22002
+
 C# has a generic [Dictionary<K,V>](https://msdn.microsoft.com/en-us/library/xfhwa508(v=vs.110).aspx) collection class that implements the [IDictionary<K,V>](https://msdn.microsoft.com/en-us/library/s4ys34ea(v=vs.110).aspx) interface. According to MSDN: "The Dictionary class provides a mapping from a set of keys to a set of values. Each addition to the dictionary consists of a value and its associated key". The focus of this assignment is the use of generics, and the understanding of interfaces and interface inheritance by implementing and using your own class(es).
 
 This assignment consists of two parts:
